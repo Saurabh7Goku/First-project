@@ -1,5 +1,3 @@
-# First-project
-Text-based-application
 import time 
 
 
