@@ -84,8 +84,8 @@ def option_cave():
     "closer and closer, your heart beat rapidly. As the orc "
     "reached out to grab the sword, you pierced the blade into "
     "its chest. \n\nYou survived!")
-   else: 
-     print ("\nYou should have picked up that sword. You're "
+  else: 
+    print ("\nYou should have picked up that sword. You're "
      "defenseless. \n\nYou died!")
   elif choice in answer_C:
     print ("As the orc enters the dark cave, you sliently "
